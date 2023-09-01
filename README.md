@@ -23,5 +23,7 @@ WHEN I click the save button for that timeblock
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
-```
+
 ### Mock Up
+```<img width="1420" alt="Screenshot 2023-09-01 at 12 04 04 AM" src="https://github.com/SarahNk1-Maker/Work-Day-Scheduler/assets/114023598/6d024ef0-04c7-4044-bce1-0855271a220d">
+
