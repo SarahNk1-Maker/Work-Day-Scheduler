@@ -49,7 +49,7 @@ $(document).ready(function () {
     $("#hour-12AM .description").val(localStorage.getItem("hour-16PM"));
     $("#hour-12AM .description").val(localStorage.getItem("hour-17PM"));
     
-    printDateTime();
+    
     updateTimeBlock();
     
     
